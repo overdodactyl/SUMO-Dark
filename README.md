@@ -20,4 +20,4 @@ Copy and paste the contents of `Bugzilla_Dark.css` into an extension such as [St
 
 Set the style to Apply on `URLs on the domain` `bugzilla.mozilla.org`.
 
-Once the theme is more finalized, I will host it on https://userstyles.org/ and most likely include it in ShadowFox[https://github.com/overdodactyl/ShadowFox].
+Once the theme is more finalized, I will host it on https://userstyles.org/ and most likely include it in [ShadowFox](https://github.com/overdodactyl/ShadowFox).
