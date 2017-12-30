@@ -14,7 +14,7 @@ This theme is still in development.  Please report any problems by opening a new
 
 ![3](screenshots/SUMO_3.png)
 
-# Usinge Bugzilla-Dark
+# Usinge SUMO-Dark
 
 Copy and paste the contents of `Bugzilla_Dark.css` into an extension such as [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
 
